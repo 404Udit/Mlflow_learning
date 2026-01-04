@@ -1,0 +1,14 @@
+artifact_uri: file:C:\udit\MLOps\4. Experiments-with-MLFlow\mlruns/978247786134608741/c8fe818018b848b990a9915119e03932/artifacts
+end_time: 1767536477092
+entry_point_name: ''
+experiment_id: '978247786134608741'
+lifecycle_stage: active
+run_id: c8fe818018b848b990a9915119e03932
+run_name: unique-whale-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767536476772
+status: 3
+tags: []
+user_id: shruu

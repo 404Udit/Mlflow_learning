@@ -1,0 +1,14 @@
+artifact_uri: file:C:\udit\MLOps\4. Experiments-with-MLFlow\mlruns/978247786134608741/e827b97d85b94e4fa461bd4f0e83611a/artifacts
+end_time: 1767536547079
+entry_point_name: ''
+experiment_id: '978247786134608741'
+lifecycle_stage: active
+run_id: e827b97d85b94e4fa461bd4f0e83611a
+run_name: chill-jay-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767536546784
+status: 3
+tags: []
+user_id: shruu
